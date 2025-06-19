@@ -34,12 +34,12 @@ pip install pyserial numpy matplotlib
 
 1. Edit the script and set your COM port:
    ```python
-   SERIAL_PORT = "COM5"
+   SERIAL_PORT = "COMX"
    ```
 
 2. Run the script:
    ```
-   python your_script_name.py
+   python pythonPlotter.py
    ```
 
 3. When prompted, press Enter to start a 30-second data capture session.
