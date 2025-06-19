@@ -65,8 +65,5 @@ pip install pyserial numpy matplotlib
 
 ## 📝 License
 
-MIT License – Free to use, share, and modify!
+MIT License – Free to use and share!
 
----
-
-Made with ❤️ for data and sensors!
